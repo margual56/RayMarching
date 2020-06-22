@@ -1,5 +1,7 @@
 # RayMarching
-A 3D renderer made in Java that uses the [Ray Marching algorithm]
+A 3D renderer made in Java that uses the [Ray Marching algorithm]<br/>
+![render of a cylinder](capsule_render.png)
+
 
 ## Expandability
 To implement a new shape, all you have to do is create a new class implementing the interface "Geometry" and search the [Distance estimation function](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
